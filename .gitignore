@@ -1,12 +1,13 @@
 # Gradle files
 .gradle/
 build/
-
+i
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Log/OS Files
 *.log
+*.zip
 
 # Android Studio generated files and folders
 captures/
